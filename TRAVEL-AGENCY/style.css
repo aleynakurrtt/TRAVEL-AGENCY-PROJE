@@ -1,0 +1,156 @@
+
+/* navbar başlangıç*/
+.navbar{
+   background-color: #320f21;
+   display: flex
+}
+
+
+.navbar-brand{
+    color: #ffff;
+    font-size: 1.5rem;
+}
+
+.nav-link{
+   
+    color: #ffff;
+    font-weight: 35%;
+  
+    
+}
+
+.navbar-nav{
+    flex-direction: 0;
+}
+
+/* navbar bitiş*/
+
+/* ikinci kısım başlangıç*/
+
+ .display-5{
+    color: rgb(246, 231, 231);
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    font-weight: bolder;
+ }
+
+
+.orta{
+    background-color: #320f21;
+}
+
+.my-5{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.lead{
+    font-weight: bolder ;
+    color: #cccaca ;
+    
+}
+.img-fluid{
+    border-radius: 50px;
+}
+
+.btn-primary{
+    margin-right: 1rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+
+}
+
+/* ikinci kısım bitiş*/
+
+/* BUİLDİNG KISIM BAŞLANGIÇ*/
+
+.feature{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+}
+.me-3{
+    border-radius: 50%;
+}
+
+/* BUİLDİNG KISIM BİTİŞ*/
+
+/* BLOG KISIM BAŞLANGIÇ*/
+
+.mb-5{
+    margin-bottom: 3rem;
+}
+
+.card{
+    margin-right: 1.5rem;
+}
+.card-img-top{
+    border-radius: 1.5rem;
+}
+
+.text-body-image{
+    border-radius: 50%;
+    float: left;
+    padding-right: 1vw;
+}
+
+
+
+/* BLOG KISIM BİTİŞ*/
+
+/* MAİL KISIM BAŞLANGIÇ*/
+.p-sm-5{
+     border-radius: 3 rem;
+     
+}
+
+
+
+.f-s3{
+    font-weight: 600 ;
+    
+}
+
+.form-label{
+    float: right;
+}
+
+/* MAİL KISIM BİTİŞ*/
+
+
+.small{
+    padding-right: 1.5rem;
+}
+
+
+
+/* ABOUT KISIM BAŞLANGIÇ*/
+
+.orta-baslik{
+    padding-top: 3rem;
+}
+
+
+.bg-light{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+
+/* ABOUT KISIM BİTİŞ*/
+
+
+/* CONTACT KISIM BAŞLANGIÇ*/
+.get{
+    padding-top: 1rem;
+}
+
+/* CONTACT KISIM BİTİŞ*/
+
+
+.fw-bolder{
+    color: #964e4e;
+}
